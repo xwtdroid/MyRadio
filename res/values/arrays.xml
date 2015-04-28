@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="radio_info">
+        <item>猫扑电台</item>
+        <item>mms://ting.mop.com/mopradio</item>
+        <item>天津新闻广播</item>
+        <item>mms://60.29.105.165/live1</item>
+        <item>天津音乐广播</item>
+        <item>mms://60.29.105.165/live2</item>
+        <item>天津经济广播</item>
+        <item>mms://60.29.105.164/live3</item>
+        <item>天津文艺广播</item>
+        <item>mms://60.29.105.166/live4</item>
+        <item>天津交通广播</item>
+        <item>mms://60.29.105.164/live5</item>
+        <item>天津生活广播</item>
+        <item>mms://60.29.105.166/live6</item>
+        <item>天津滨海广播</item>
+        <item>mms://60.29.105.165/live7</item>
+        <item>小说广播</item>
+        <item>mms://60.29.105.166/live8</item>
+        <item>相声广播</item>
+        <item>mms://60.29.105.163/live9</item>
+        <item>北方调频广播</item>
+        <item>mms://60.29.105.166/live10</item>
+        <item>农村(区县)广播</item>
+        <item>mms://60.29.105.164/live11</item>
+        <item>音乐中波广播(环球资讯)</item>
+        <item>mms://60.29.105.166/live13</item>
+        <item>古曲音乐广播</item>
+        <item>mms://60.29.105.165/live15</item>
+        <item>网络外语广播</item>
+        <item>mms://60.29.105.164/live16</item>
+    </string-array>
+
+</resources>
